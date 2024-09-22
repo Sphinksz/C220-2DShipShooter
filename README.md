@@ -14,11 +14,13 @@ Explosion2a-b.wav by usernamenumber -- https://freesound.org/s/331369/ -- Licens
 
 All other sounds provided under Creative Common License from https://freesound.org
 
+Other art assets provided under CCO with no attribution requirements. [itch.io]
+
 ## References
 None
 
 ## Future Development
-None
+Score, lives, game-start and game-end screens. In-game menu.
 
 ## Created by
 Blake Swing
