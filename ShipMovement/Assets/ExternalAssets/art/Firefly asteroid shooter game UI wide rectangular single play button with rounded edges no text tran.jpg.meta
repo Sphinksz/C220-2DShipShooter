@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 828c24dd40d0de4428f1c00866eadee0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 6
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 265, z: 174, w: 259}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 861, y: -557}
+      - {x: 834, y: -577}
+      - {x: 795, y: -599}
+      - {x: 753, y: -614}
+      - {x: 726, y: -620}
+      - {x: 687, y: -623}
+      - {x: 629, y: -624}
+      - {x: 94, y: -624}
+      - {x: -610, y: -624}
+      - {x: -884, y: -624}
+      - {x: -928, y: -619}
+      - {x: -963, y: -608}
+      - {x: -1002, y: -592}
+      - {x: -1042, y: -567}
+      - {x: -1074, y: -540}
+      - {x: -1099, y: -513}
+      - {x: -1120, y: -484}
+      - {x: -1136, y: -453}
+      - {x: -1146, y: -430}
+      - {x: -1152, y: -412}
+      - {x: -1152, y: 449}
+      - {x: -1139, y: 480}
+      - {x: -1117, y: 515}
+      - {x: -1085, y: 553}
+      - {x: -1056, y: 579}
+      - {x: -1020, y: 604}
+      - {x: -981, y: 622}
+      - {x: -952, y: 631}
+      - {x: -934, y: 635}
+      - {x: -915, y: 636}
+      - {x: 726, y: 636}
+      - {x: 746, y: 633}
+      - {x: 808, y: 613}
+      - {x: 853, y: 587}
+      - {x: 898, y: 546}
+      - {x: 936, y: 496}
+      - {x: 959, y: 448}
+      - {x: 969, y: 410}
+      - {x: 973, y: 380}
+      - {x: 974, y: 92}
+      - {x: 973, y: -342}
+      - {x: 969, y: -374}
+      - {x: 964, y: -396}
+      - {x: 960, y: -410}
+      - {x: 952, y: -432}
+      - {x: 943, y: -453}
+      - {x: 927, y: -483}
+      - {x: 911, y: -506}
+      - {x: 885, y: -535}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
